@@ -1,7 +1,7 @@
 var previousGraph = null;
 /**
  * This is the default cat facts, b/c the API is inconsitnt and is hosted on a 
- * unreliable server
+ * unreliable server 
  */
 const defaultCatFacts = [
     "Kittens sleep so much because the growth hormone is only released when they sleep.",
